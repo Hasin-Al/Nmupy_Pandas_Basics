@@ -7,7 +7,7 @@ This repository contains a Jupyter notebook designed for beginners and intermedi
 ## What’s Covered
 
 ### 1. **IPython Basics**
-- Magic commands (`%timeit`, `%matplotlib inline`).
+- Magic commands (`%timeit`, '?').
 - Shortcuts and history browsing for an efficient workflow.
 
 ### 2. **NumPy Fundamentals**
