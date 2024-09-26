@@ -46,4 +46,4 @@ This notebook provides:
 To install dependencies, run:
 
 ```bash
-pip install numpy pandas ipython jupyter
+pip install numpy pandas 
